@@ -5,9 +5,9 @@ The purpose of the project is to aggregate data from multiple schools within the
 
 ## Results
 ### - How was the district summary affected?
-The school district summary was minimally impacted when the altered scores were removed given the limited scope of the academic dishonesty and the large number of students in the district. The percentage of students passing reading increased only fractionally. The percentage of students passing math and overall decreased only fractionally. The overall passing percentage decreased from 65.2% to 64.9%.
+The school district summary was minimally impacted when the altered scores were removed given the limited scope of the academic dishonesty and the large number of students in the district. The percentage of students passing math, reading, and overall decreased only fractionally. The overall passing percentage decreased from 65.2% to 64.9%.
 ### - How is the school summary affected?
-Similar to the district summary, the school summary was also minimally impacted when the altered scores were removed. Only Thomas High School data was affected and the percentage of students passing reading increased only fractionally. The percentage of students passing math and overall decreased only fractionally. The overall passing percentage for Thomas High School decreased from 90.9% to 90.6%.
+Similar to the district summary, the school summary was also minimally impacted when the altered scores were removed. Only Thomas High School data was affected and the percentage of students passing math, reading, and overall decreased only fractionally. The overall passing percentage for Thomas High School decreased from 90.9% to 90.6%.
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The removal of the altered Thomas High School math and reading scores did not affect the school's overall performance relatitve to other schools. As seen in the comparison below, Thomas High School had the second highest overall passing percentage before and after the altered scores were removed.
 #### Initial Analaysis Ranking by Overall Passing Percentage
